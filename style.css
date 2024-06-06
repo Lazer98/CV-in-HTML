@@ -1,0 +1,19 @@
+.summary{
+    background-image: url('https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717665271~exp=1717668871~hmac=77f0cf871e57f019e9de2566ece56b281f28f95214f82f209f1302477c98d49b&w=996');
+    height: 200px;
+}
+
+/* .first-container{
+    display:flex;
+
+}
+.first-container article{
+    justify-content: space-around;
+} */
+.second-container{
+    display:flex;
+
+}
+.second-container article{
+    justify-content: space-around;
+}
